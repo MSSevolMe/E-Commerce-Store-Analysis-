@@ -41,9 +41,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Conclusion
 
-The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
-
-
 <!-- ## Questions Answered
 
 The following questions are answered by the project:
